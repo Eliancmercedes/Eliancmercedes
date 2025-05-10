@@ -16,10 +16,7 @@ I'm a software engineering student currently in my 5th semester at UCE (Punta Ca
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                ### 🌐 Socials
+                 
 
 <p align="left">
   <a href="https://github.com/Eliancmercedes" target="_blank" rel="noreferrer">
