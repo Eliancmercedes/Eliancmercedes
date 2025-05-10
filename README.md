@@ -1,7 +1,7 @@
 Hi 👋 My name is Elian N. Camino Mercedes
 =========================================
 
-Student Developer | Learning C# | Passionate about Tech
+Student Developer | Learning C# | 
 -------------------------------------------------------
 
 I'm a software engineering student currently in my 5th semester at UCE (Punta Cana Campus), learning the fundamentals of programming with C# and SQL. I'm passionate about software development and always eager to explore new technologies. I'm building my skills with personal projects and actively learning to become a full-stack developer in the future.
