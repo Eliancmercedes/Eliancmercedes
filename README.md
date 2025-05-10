@@ -19,14 +19,15 @@ I'm a software engineering student currently in my 5th semester at UCE (Punta Ca
                  
 
 <p align="left">
-  <a href="https://github.com/Eliancmercedes" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Eliancmercedes" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.instagram.com/https._elian" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/https._elian" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/eliancamino" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/eliancamino" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
+
 
